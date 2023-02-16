@@ -1,0 +1,7 @@
+Given are some integers, which are read from the data stream. The task is to find the median of the integers read so far.
+
+The median is the middle value of a sorted list of integers. If the size of the list is even, the median is the average of the two middle elements.
+
+Examples:
+Input: [1, 2, 3,…]
+Output: [1, 1.5, 2..]
